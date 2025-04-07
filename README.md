@@ -1,12 +1,12 @@
-# PinkMoon
-A tinder like android dating app which runs in the android platforms avaiable for android version 4.0 or up.
+# GETDOMME
+A  dating app which runs in the android platforms avaiable for android version 4.0 or UP but this is still under development and will be available for all operating systems 
 
-## Demo Screenshots
+## put additional code here 
 
 ### main page
 <img width="263" alt="img1" src="https://user-images.githubusercontent.com/19808690/41212921-6bb685ce-6cf6-11e8-96bb-2de0fd5d43bb.png">
 
-### like or dislike
+### Fuck or Reject 
 <img width="265" alt="img2" src="https://user-images.githubusercontent.com/19808690/41212929-7d233b72-6cf6-11e8-9cde-0fac96636a9f.png">
 <img width="260" alt="img3" src="https://user-images.githubusercontent.com/19808690/41212931-8574a5f4-6cf6-11e8-8ce8-f9ff59b4cdaa.png">
 
