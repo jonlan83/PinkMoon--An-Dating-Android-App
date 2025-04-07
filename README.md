@@ -13,13 +13,6 @@ A  dating app which runs in the android platforms avaiable for android version 4
 ## How to use
 - Register an account, and select the gender you are interested, age, and interests
 - Email verify your account, and log in
-- In the main page, swipe (or click) the profile image of others. If you like the person, swipe right (click right), if don't, swipe left (or click left)
-- If both of you like each other, you can see the secured info of that person, and send either email or SMS to her/him
+- In the main page, swipe (or click) the profile image of others. If you would fuck the person, swipe right (click right), if don't, swipe left and reject (or click left)
+- If both of you would fuck each other, you can see the secured info of that person, and send either email or SMS to her/him if your a premium member only.Free accounts are free because your new to the platform everyone who is new to register gets 10 days premium service for free after 10 days your account with be set to a restricted account until you decide to enlist into our premium services.
 - Real time video chat with that person (TBD)
-
-## License
-Copyright 2018 Spring COEN268_SCU_Project team 6:
-- Yuxuan Li
-- Vikas Radhakrishna Shetty
-- Xiaoyu Huang
-- Jing Chen
